@@ -1,1 +1,2 @@
-
+Problem Statement :
+The goal is to develop a binary classification model to predict passenger survival (Survived column) based on passenger details such as gender (Sex), age (Age), and fare paid (Fare).
